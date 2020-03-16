@@ -1,0 +1,263 @@
+{
+    "list": [
+        {
+            "name": "ODE_Quiz_2",
+            "course": "",
+            "datedue": "22-03-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "ODE_Assignment",
+            "course": "",
+            "datedue": "27-03-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "MC_Quiz_1",
+            "course": "",
+            "datedue": "29-03-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "MC_Quiz_3",
+            "course": "",
+            "datedue": "26-04-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "DA_Assignment",
+            "course": "",
+            "datedue": "22-05-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "LA_Quiz_1",
+            "course": "",
+            "datedue": "24-05-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "Test_2",
+            "course": "",
+            "datedue": "27-05-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "LA_Quiz_2",
+            "course": "",
+            "datedue": "31-05-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "Lab1",
+            "course": "",
+            "datedue": "20-03-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "Lab4",
+            "course": "",
+            "datedue": "29-05-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "Assignment_2:_Classes_and_Objects",
+            "course": "",
+            "datedue": "20-03-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "Test",
+            "course": "",
+            "datedue": "02-04-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "Lab2",
+            "course": "",
+            "datedue": "03-04-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "MC_Quiz_2",
+            "course": "",
+            "datedue": "05-04-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "Test_1",
+            "course": "",
+            "datedue": "08-04-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "Assignment_3:_Object-oriented_design",
+            "course": "",
+            "datedue": "09-04-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "DA_Quiz_1",
+            "course": "",
+            "datedue": "03-05-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "DA_Quiz_2A",
+            "course": "",
+            "datedue": "05-05-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "DA_Quiz_2B",
+            "course": "",
+            "datedue": "10-05-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "DA_Quiz_3A",
+            "course": "",
+            "datedue": "12-05-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "Lab3",
+            "course": "",
+            "datedue": "15-05-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "DA_Quiz_3B",
+            "course": "",
+            "datedue": "17-05-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "Assignment_4:_Unit_Testing_and_Design_Patterns",
+            "course": "",
+            "datedue": "22-05-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "Assignment_5:_Design_Patterns_with_Java_GUI",
+            "course": "",
+            "datedue": "02-06-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "AVR_(2020)",
+            "course": "",
+            "datedue": "04-06-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "Assignment_2",
+            "course": "",
+            "datedue": "22-03-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "Assignment_3",
+            "course": "",
+            "datedue": "05-04-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "Assignment_4",
+            "course": "",
+            "datedue": "10-05-2020",
+            "role": "",
+            "report": "A"
+        },
+        {
+            "name": "Assignment_5",
+            "course": "",
+            "datedue": "24-05-2020",
+            "role": "",
+            "report": "A"
+        }
+    ],
+    "roles": [
+        "CHEMMAT 121",
+        "ELECTENG 101",
+        "ENGGEN 115",
+        "ENGGEN 131"
+    ],
+    "courses": [
+        "CHEMMAT 121",
+        "ELECTENG 101",
+        "ENGGEN 115",
+        "ENGGEN 131"
+    ],
+    "syn": [
+        [
+            "121",
+            "chemmat111"
+        ],
+        [
+            "101",
+            "electeng101"
+        ],
+        [
+            "115",
+            "enggen115"
+        ],
+        [
+            "131",
+            "enggen131"
+        ]
+    ],
+    "reporttype": [
+        {
+            "type": "A",
+            "times": [
+                "6",
+                "12",
+                "18",
+                "23"
+            ]
+        },
+        {
+            "type": "T",
+            "times": [
+                "1",
+                "12",
+                "16"
+            ]
+        },
+        {
+            "type": "B",
+            "times": [
+                "6",
+                "18"
+            ]
+        }
+    ]
+}

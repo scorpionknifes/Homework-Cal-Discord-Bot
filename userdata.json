@@ -1,0 +1,72 @@
+{
+    "user": [
+        {
+            "id": "1",
+            "roles": [
+                "111",
+                "121",
+                "115",
+                "140"
+            ]
+        },
+        {
+            "id": "183076824090279936",
+            "roles": [
+                "CHEMMAT 121",
+                "ELECTENG 101",
+                "ENGGEN 115",
+                "ENGGEN 131"
+            ]
+        },
+        {
+            "id": "441872157526720523",
+            "roles": [
+                "CHEMMAT 121",
+                "ELECTENG 101",
+                "ENGGEN 131"
+            ]
+        },
+        {
+            "id": "127613134205616129",
+            "roles": [
+                "ENGGEN 131",
+                "ENGGEN 115",
+                "CHEMMAT 121",
+                "ELECTENG 101"
+            ]
+        },
+        {
+            "id": "427035248304324608",
+            "roles": [
+                "ELECTENG 101",
+                "ENGGEN 115",
+                "CHEMMAT 121",
+                "ENGGEN 131"
+            ]
+        },
+        {
+            "id": "162756255792758784",
+            "roles": [
+                "ELECTENG 101",
+                "CHEMMAT 121",
+                "ENGGEN 131"
+            ]
+        },
+        {
+            "id": "168550787998285825",
+            "roles": [
+                "ELECTENG 101",
+                "CHEMMAT 121",
+                "ENGGEN 131"
+            ]
+        },
+        {
+            "id": "429172988202450944",
+            "roles": [
+                "ELECTENG 101",
+                "CHEMMAT 121",
+                "ENGGEN 131"
+            ]
+        }
+    ]
+}

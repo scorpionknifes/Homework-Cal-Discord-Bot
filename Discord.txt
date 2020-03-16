@@ -1,0 +1,34 @@
+**How to use ZHENK's Superior BOT**
+
+***!setup*** or ***!register*** or ***!role***
+
+*Use* ***!setup*** *to see all your current roles*
+```
+See Current Roles - !setup
+To add a New Role - !setup 111,121,140        (allows multiple courses seperated by "," NO SPACE PLS)
+                    !role eng111,eng121
+To remove a Role  - !setup 111               (only works if you have the role 111)
+```
+*Add Homework using* ***!add***
+```
+Adding Homework using !add Requires Correct Syntax
+
+Example:
+         !add Assignment_1 111 01/01/2020 A
+
+      Command   HW_name    Course    Date   Report(Optional)
+
+ Note: No Spaces is allowed in HW_name or Course, Please Replace all Spaces with "_"
+        e.g. Assignment 1 => Assignment_1
+
+  Report(Optional) - Choose what type or reminder you want the bot to do
+    (Default)  A - 6 am, 12 pm, 6 pm, 11 pm
+               B - 6 am, 6 pm
+```
+*Viewing Task List* ***!list***
+```
+View All Task due using !list
+
+To View All          - !list
+To View One Course   - !list 111
+```
